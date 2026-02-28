@@ -93,4 +93,4 @@ Using SIGKILL in production can result in:
 ### 1️⃣ Start a Test Process
 
 ```bash
-sleep 300
+sleep 500
